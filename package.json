@@ -1,0 +1,25 @@
+{
+  "name": "pink-bot",
+  "version": "1.0.0",
+  "description": "pinkbot made in dbd.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "author": "Pink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/",
+  "dependencies": {
+    "dbd.db": "^1.4.5",
+    "dbd.express": "^1.0.1",
+    "dbd.js": "^2.2.6",
+    "dbd.js-utils": "^0.1.1"
+  }
+}
